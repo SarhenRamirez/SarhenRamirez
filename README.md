@@ -1,6 +1,6 @@
-# 👋 Hola, soy Sarhen Ramirez
+#  Hola, soy Sarhen Ramirez
 
-💻 Desarrolladora Web Full Stack en formación  
+💻 Desarrolladora Web Full Stack
 🎯 Enfoque en backend con Node.js y NestJS, diseño de APIs REST y arquitectura cliente-servidor 
 
 ---
