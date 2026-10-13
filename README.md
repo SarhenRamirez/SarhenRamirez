@@ -31,9 +31,9 @@
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brigythe-ramirez-657a012a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarhen-ramirez-657a012a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarhenramirez2@gmail.com)
 
 ---
 
-✨ Construyendo aplicaciones completas desde la base de datos hasta la interfaz.
+Construyendo aplicaciones completas desde la base de datos hasta la interfaz.
