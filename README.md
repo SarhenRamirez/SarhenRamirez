@@ -1,39 +1,63 @@
-#  Hola, soy Sarhen Ramirez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Sarhen%20Ramirez&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-💻 Desarrolladora Web Full Stack
- Enfoque en backend con Node.js y NestJS, diseño de APIs REST y arquitectura cliente-servidor 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=560&lines=Desarrolladora+Web+Full+Stack;Enfoque+en+Backend+con+Node.js+y+NestJS;Dise%C3%B1o+de+APIs+REST;Arquitectura+cliente-servidor" alt="Typing SVG" />
+</p>
 
----
-
-## 👩🏻‍💻 Tecnologías
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarhen-ramirez-657a012a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sarhenramirez2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 📫 Contacto
+## 👋 Sobre mí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarhen-ramirez-657a012a0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarhenramirez2@gmail.com)
+💻 Desarrolladora Web Full Stack con enfoque en **backend**: Node.js y NestJS, diseño de APIs REST y arquitectura cliente-servidor.
+
+📍 Bogotá, Colombia
 
 ---
 
-Construyendo aplicaciones completas desde la base de datos hasta la interfaz.
+## 🚀 Proyecto destacado
+
+### 🏡 [APP Vesta](https://github.com/appvestapf/Proyecto-Final-Grupo-2)
+
+Plataforma web de alquileres temporarios y residenciales con búsqueda avanzada, gestión de reservas y pagos online. Proyecto final grupal en Henry, desarrollado por un equipo de 6 personas (3 backend y 3 frontend).
+
+- 🔎 Búsqueda con filtros por ubicación, precio, capacidad y tipo de alquiler
+- 📅 Gestión de reservas y disponibilidad
+- 💳 Pagos online con Mercado Pago
+- 🔐 Autenticación con JWT y Google OAuth
+- 🗺️ Mapas con Mapbox y chatbot con inteligencia artificial
+
+**Mi rol:** parte del equipo backend, desarrollando la API REST con NestJS, TypeORM y PostgreSQL.
+
+**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · TypeORM · Vercel · Render · Neon
+
+[![Demo](https://img.shields.io/badge/Ver%20demo-proyecto--final--grupo--2.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://proyecto-final-grupo-2.vercel.app)
+[![Código](https://img.shields.io/badge/Ver%20c%C3%B3digo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appvestapf/Proyecto-Final-Grupo-2)
+
+---
+
+## 🛠️ Tecnologías
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,postgres,typeorm" alt="Backend"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend"/>
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Herramientas"/>
+
+> Autenticación con JWT · APIs REST · Arquitectura cliente-servidor
+
+---
+
+<p align="center">
+  <i>Construyendo aplicaciones completas desde la base de datos hasta la interfaz.</i>
+</p>
